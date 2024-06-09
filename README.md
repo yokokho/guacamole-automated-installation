@@ -1,5 +1,7 @@
 # Automated Setup for Guacamole Server with Tomcat
 
+<p align='center'>بسم الله الرحمن الرحيم</p>
+
 This script automates the setup process for deploying Guacamole Server with Tomcat on a Ubuntu (tested on Ubuntu 24.04 - fresh installation). 
 
 If you are using Debian, you need to replace `libjpeg-turbo8-dev` in the script with `libjpeg62-turbo-dev`.
